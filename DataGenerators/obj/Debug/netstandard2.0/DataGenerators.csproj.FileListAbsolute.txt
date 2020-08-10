@@ -1,0 +1,11 @@
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\bin\Debug\netstandard2.0\DataGenerators.deps.json
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\bin\Debug\netstandard2.0\DataGenerators.dll
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\bin\Debug\netstandard2.0\DataGenerators.pdb
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\bin\Debug\netstandard2.0\ServiceManager.dll
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\bin\Debug\netstandard2.0\ServiceManager.pdb
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\obj\Debug\netstandard2.0\DataGenerators.csprojAssemblyReference.cache
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\obj\Debug\netstandard2.0\DataGenerators.AssemblyInfoInputs.cache
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\obj\Debug\netstandard2.0\DataGenerators.AssemblyInfo.cs
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\obj\Debug\netstandard2.0\DataGenerators.csproj.CopyComplete
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\obj\Debug\netstandard2.0\DataGenerators.dll
+C:\Users\Doktor\source\repos\ArvatoTest\DataGenerators\obj\Debug\netstandard2.0\DataGenerators.pdb

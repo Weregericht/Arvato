@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentAssertions" Version="4.19.4" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.7.0" />
+    <PackageReference Include="MSTest.TestFramework" Version="1.3.2" />
+    <PackageReference Include="RestSharp" Version="106.11.4" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.3.74" />
+
+    
+    <PackageReference Include="SpecRun.SpecFlow" Version="3.3.41" />
+    
+
+    
+
+    
+
+    
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Hooks\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataGenerators\DataGenerators.csproj" />
+    <ProjectReference Include="..\ServiceManager\ServiceManager.csproj" />
+  </ItemGroup>
+
+</Project>

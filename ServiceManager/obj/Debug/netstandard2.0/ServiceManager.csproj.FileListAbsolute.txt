@@ -1,0 +1,10 @@
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\bin\Debug\netstandard2.0\ServiceManager.deps.json
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\bin\Debug\netstandard2.0\ServiceManager.dll
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\bin\Debug\netstandard2.0\ServiceManager.pdb
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\bin\Debug\netstandard2.0\Microsoft.CSharp.dll
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\obj\Debug\netstandard2.0\ServiceManager.csprojAssemblyReference.cache
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\obj\Debug\netstandard2.0\ServiceManager.AssemblyInfoInputs.cache
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\obj\Debug\netstandard2.0\ServiceManager.AssemblyInfo.cs
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\obj\Debug\netstandard2.0\ServiceManager.csproj.CopyComplete
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\obj\Debug\netstandard2.0\ServiceManager.dll
+C:\Users\Doktor\source\repos\ArvatoTest\ServiceManager\obj\Debug\netstandard2.0\ServiceManager.pdb
