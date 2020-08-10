@@ -1,0 +1,16 @@
+Here is project with API tests. I create tests in two ways. 
+First is simpliest, by using standart VisualStudio features for tests. 
+You can find it in project ArvatoTest. To run this tests you just need to open TestExlorer in VisualStudio, build project and you can see all the tests and run it. For the reports you can use also standart CI TFS for example.
+
+Second way, as I saw in task, is BDD scenarios.
+To run this tests your account should be logged in on a specflow website. On this page you can find how to do that:
+https://docs.specflow.org/projects/specflow/en/latest/Getting-Started/Getting-Started-With-A-New-Project.html?utm_source=website&utm_medium=newproject&utm_campaign=getting_started
+Tests you can find in project BddTestsAccountValidation, after you logged in, to run it you can also use TestExlorer.
+Reports you can find in folder TestResults near the project. That was a html file with name like this: "%project__%DateTime%.html".
+All steps in scenarios are simple and I think don't need for more explanations.
+
+As for tests, I found the difference between responses in negative cases. API response has one more field. 
+I think thats not a big problem, but you can get contract missmatch. Thats why this test is steel failed. 
+Another failed test is check country out of scope. 
+I think it is not a problem, we can say that this country now in scope to, but because of requirementsI keep test as it is.
+
